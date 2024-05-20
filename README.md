@@ -25,3 +25,12 @@ A full-stack to-do list application built with React, Node.js, and MongoDB. The 
    git clone https://github.com/your-username/todo-list-app.git
    cd tUdemy-Docker
 
+2. Start the docker 
+
+     ```sh
+          docker-compose up -d
+
+3.Stop the container
+
+      ```sh
+         docker-compose down
