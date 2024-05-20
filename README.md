@@ -28,9 +28,9 @@ A full-stack to-do list application built with React, Node.js, and MongoDB. The 
 2. Start the docker 
 
      ```sh
-          docker-compose up -d
+      docker-compose up -d
 
 3.Stop the container
 
-      ```sh
-         docker-compose down
+      ``sh
+      docker-compose down
